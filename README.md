@@ -1,5 +1,3 @@
-# Leonardo Scialo Portfolio
-
 # Project 1: Machine Learning Projects From Scratch
 Each project in this list is written in Python, where the underlining algorithm is written solely using **built-in** Python modules and **numpy**, utilising vector notation for efficient computational analysis.
 
