@@ -6,9 +6,9 @@ Each project in this list is written in Python, where the underlining algorithm 
 ## [Project 1.1: Linear Regression](https://github.com/LeonardoScialo/Linear_Regression)
 * Linear regression model on a salary dataset;
 * Estimates the expected salary based on the emplyee's level with 30 samples;
-* Outputs a graph of the cost vs the number of iterations, along with the number of iterations it took to converge;
+* Outputs a graph of the cost vs the number of iterations, along with the number of iterations it took to converge:
 ![](https://github.com/LeonardoScialo/Leonardo_Scialo_Portfolio/blob/main/images/LinearRegressionCost.png)
-* Outputs a graph of the data along witht the regression line;
+* Outputs a graph of the data along witht the regression line:
 ![](https://github.com/LeonardoScialo/Leonardo_Scialo_Portfolio/blob/main/images/LinearRegressionModel.png)
 * Outputs the $\text{R}^2$ to show how well the data fits the model.
 
@@ -16,9 +16,9 @@ Each project in this list is written in Python, where the underlining algorithm 
 ## [Project 1.2: Logistic Regression](https://github.com/LeonardoScialo/Logistic_Regression)
 * Logistic regression model on a diabetes dataset;
 * Dataset has 8 features and 768 samples which are used to estimate if a patient has diabetes;
-* Outputs a graph of the cost vs the number of iterations, along with the number of iterations it took to converge;
+* Outputs a graph of the cost vs the number of iterations, along with the number of iterations it took to converge:
 ![](https://github.com/LeonardoScialo/Leonardo_Scialo_Portfolio/blob/main/images/LogisticRegressionCost.png)
-* Outputs a confusion matrix written in Python using **numpy**;
+* Outputs a confusion matrix written in Python using **numpy**:
 ![](https://github.com/LeonardoScialo/Leonardo_Scialo_Portfolio/blob/main/images/LogisticRegressionConfusionMatrix.png)
 * Outputs accuracy, precision, recall, and F1-score.
 
