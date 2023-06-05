@@ -26,5 +26,9 @@ Each project in this list is written in Python, where the underlining algorithm 
 * Naive Bayes classifier on the iris dataset;
 * Dataset classifies the 3 types of iris species by using 4 features and 150 samples;
 * Calculates the normal distribution for each entry for each feature;
-* Outputs the accuracy;
-* Planning on developing and include a confusion matrix for Naive Bayes.
+* Outputs a confusion matrix written in Python using **numpy**:
+![](/images/NaiveBayesConfusionMatrix.png)
+* Outputs accuracy, precision, recall, and F1-score as a table:
+![](/images/NaiveBayesPerformanceTable.png)
+* Outputs total accuracy.
+
